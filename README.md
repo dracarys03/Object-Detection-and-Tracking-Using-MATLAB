@@ -22,3 +22,8 @@ frames ( 1 second) is cleared using ‘flushdata(vid);’.
   
 ![z](https://user-images.githubusercontent.com/84719685/176025935-85af188f-f685-4f37-b857-8e68ab38b81f.jpg)
 ![zz](https://user-images.githubusercontent.com/84719685/176025940-aed5cdab-cd21-4d9f-86ea-acc60041ca1e.jpg)
+In this project Matlab code is able to identify the red colour object in front of the camera and
+encircle it by a red coloured rectangle and also giving the centroid of the object. It can be used if we
+want to replace the red colour object by any other object of our desire. The application of this
+project is widely used in modern gaming softwares, the latest and most famous being &#39;Pokemon Go&#39;.
+We see that there are many uses in navigation and position indicating in many flight vehicles.
