@@ -20,6 +20,5 @@ location (of a rectangle). This information is then sent to the monitor for disp
 necessary inputs to ‘plot‘. Different font parameters are given and then the data stored till 200
 frames ( 1 second) is cleared using ‘flushdata(vid);’.
   
-![Screenshot 2022-06-28 013326](https://user-images.githubusercontent.com/84719685/176025926-22bf6eb5-60aa-4014-8083-87d715a62345.png)
 ![z](https://user-images.githubusercontent.com/84719685/176025935-85af188f-f685-4f37-b857-8e68ab38b81f.jpg)
 ![zz](https://user-images.githubusercontent.com/84719685/176025940-aed5cdab-cd21-4d9f-86ea-acc60041ca1e.jpg)
